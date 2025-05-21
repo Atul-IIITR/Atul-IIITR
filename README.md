@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atul</h1>
 <h3 align="center">I'm a passionate Flutter and MERN Stack developer focused on building efficient, scalable, and user-friendly applications. With expertise in cross-platform mobile apps and full-stack web development, I love turning ideas into reality through clean code and modern UI/UX. I enjoy solving real-world problems with technology and constantly strive to learn and grow. Open to collaboration, feedback, and exciting new opportunities in the tech space.</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/78KF.gif">
+<img align="right" alt="coding" width="300" src="https://i.gifer.com/78KF.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul-iiitr&label=Profile%20views&color=0e75b6&style=flat" alt="atul-iiitr" /> </p>
 
